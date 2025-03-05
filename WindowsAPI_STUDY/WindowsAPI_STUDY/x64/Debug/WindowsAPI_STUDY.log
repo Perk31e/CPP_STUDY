@@ -1,0 +1,4 @@
+﻿  WindowsAPI_STUDY.cpp
+\WindowsAPI_STUDY.cpp(1,1): error C1356: mspdbcore.dll을(를) 찾을 수 없습니다.
+  (소스 파일 '/WindowsAPI_STUDY.cpp'을(를) 컴파일하는 중)
+  

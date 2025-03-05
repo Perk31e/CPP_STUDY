@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CPP_STUDY\\CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17FDF715-C67F-4F26-9005-352AF799E900}|CodingTest.vcxproj|C:\\CPP_STUDY\\CodingTest\\0-3-permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17FDF715-C67F-4F26-9005-352AF799E900}|CodingTest.vcxproj|solutionrelative:0-3-permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0-3-permutation.cpp",
+              "DocumentMoniker": "C:\\CPP_STUDY\\CodingTest\\0-3-permutation.cpp",
+              "RelativeDocumentMoniker": "0-3-permutation.cpp",
+              "ToolTip": "C:\\CPP_STUDY\\CodingTest\\0-3-permutation.cpp",
+              "RelativeToolTip": "0-3-permutation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T12:34:22.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

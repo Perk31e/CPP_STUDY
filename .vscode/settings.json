@@ -1,0 +1,34 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "stdexcept": "cpp"
+  },
+  "terminal.integrated.env.windows": {
+    "LANG": "ko_KR.UTF-8"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.profiles.windows": {
+      "Command Prompt": {
+          "path": "C:\\Windows\\System32\\cmd.exe",
+          "args": ["/K", "chcp 65001"]
+      }
+  },
+  "files.autoGuessEncoding": true,
+  "files.encoding": "utf8",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f",
+    "comments.foreground": "#6B8595"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#6B8595",
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  }
+}
